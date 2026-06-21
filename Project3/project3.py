@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 from sklearn.cluster import KMeans
 
-df = pd.read_csv("Mall_Customers.csv")
+df = pd.read_csv("Mall_customers.csv")
 
 print(df.head())
 print(df.shape)
