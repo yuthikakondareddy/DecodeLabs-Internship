@@ -15,4 +15,8 @@ This project involves:
 ## Files included:
 - project2.py (Python code)
 - README.md (Project documentation)
-- creditcard.csv (Input dataset)
+
+## Dataset
+The dataset used for this project is the **Credit Card Fraud Detection** dataset from Kaggle.
+
+Download `creditcard.csv` from Kaggle and place it in the project folder before running the code.
